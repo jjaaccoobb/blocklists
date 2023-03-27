@@ -6,8 +6,8 @@ Blocklists used:
 - [Fabston's Malicious URL Blocklist](https://github.com/fabston/little-snitch-blocklist)
 - [Steven Black's Hosts](https://github.com/StevenBlack/hosts)
 - [someonewhocares](https://someonewhocares.org/hosts/)
-- [rulegroups' IP ACL by country](https://rulegroups.com/ip-acl-by-country/) <sup>[1]</sup>
+- [rulegroups' IP ACL by country](https://rulegroups.com/ip-acl-by-country/) <sup>[^1]</sup>
 - [yoyo.org's blocklist](https://pgl.yoyo.org/as/iplist.php)
 - [ph00lt0's blocklist](https://gitlab.com/ph00lt0/blocklists#little-snitch)
 
-<sup>[1]</sup> Note: Little Snitch will not import any subscription provided heredue to the site having an invalid SSL certificate (as of March 2023)
+<sup>[^1]</sup> Note: Little Snitch will not import any subscription provided heredue to the site having an invalid SSL certificate (as of March 2023)
